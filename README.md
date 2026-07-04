@@ -24,9 +24,8 @@ ECoG/
 ├── visualization/
 │   ├── mricroGL_glass_brain.py         # MRIcroGL scripting for 3D glass brain renders
 │   ├── surfice_disconnectome.py        # Surfice scripting for surface-based renders
-│   └── tract_overlap_figures.py        # computes overlap with Rojkova WM atlas, generates bar chart figures
-└── methods/
-    └── methods_disconnectome.md        # full methods section describing the pipeline
+    └── tract_overlap_figures.py        # computes overlap with Rojkova WM atlas, generates bar chart figures
+
 ```
 
 ---
