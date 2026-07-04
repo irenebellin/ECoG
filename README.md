@@ -85,10 +85,9 @@ Computes overlap between each heatmap and the Rojkova WM atlas tracts, generatin
 ## Citation
 
 If you use this pipeline, please cite:
-- **BCBToolkit**: Foulon et al. (2018). *Brain*. https://doi.org/10.1093/brain/awy267
-- **Disconnectome approach**: Thiebaut de Schotten et al. (2020). *Brain*. https://doi.org/10.1093/brain/awaa076
-- **Rojkova atlas**: Rojkova et al. (2016). *Brain*. https://doi.org/10.1093/brain/aww009
-
+- **BCBToolkit**: Foulon, C., Cerliani, L., Kinkingnéhun, S., Levy, R., Rosso, C., Urbanski, M., Volle, E., & Thiebaut de Schotten, M. (2018). Advanced lesion symptom mapping analyses and implementation as BCBtoolkit. *GigaScience*, 7(3), giy004. https://doi.org/10.1093/gigascience/giy004
+- **Disconnectome approach**: Thiebaut de Schotten, M., Foulon, C., & Nachev, P. (2020). Brain disconnections link structural connectivity with function and behaviour. *Nature Communications*, 11, 5094. https://doi.org/10.1038/s41467-020-18920-9
+- **Rojkova atlas**: Rojkova, K., Volle, E., Urbanski, M., Humbert, F., Dell'Acqua, F., & Thiebaut de Schotten, M. (2016). Atlasing the frontal lobe connections and their variability due to age and education: a spherical deconvolution tractography study. *Brain Structure and Function*, 221(3), 1751–1766. https://doi.org/10.1007/s00429-015-1001-3
 ---
 
 ## Contact
