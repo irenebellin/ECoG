@@ -2,7 +2,7 @@
 
 This repository contains the analysis pipeline used to generate and visualize disconnectome maps from intracranial ECoG electrode coordinates, as described in:
 
-XXXX paper link XXXX
+XXXX paper link XXXX 
 ---
 
 ## Overview
