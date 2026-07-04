@@ -78,7 +78,7 @@ Open `visualization/mricroGL_glass_brain.py` in MRIcroGL via Scripting → Open 
 ```bash
 python visualization/tract_overlap_figures.py
 ```
-Computes overlap between each heatmap and the Rojkova WM atlas tracts, generating publication-ready bar chart figures.
+Computes overlap between each heatmap and the Rojkova WM atlas tracts, generating bar chart figures.
 
 ---
 
@@ -89,8 +89,3 @@ If you use this pipeline, please cite:
 - **Disconnectome approach**: Thiebaut de Schotten, M., Foulon, C., & Nachev, P. (2020). Brain disconnections link structural connectivity with function and behaviour. *Nature Communications*, 11, 5094. https://doi.org/10.1038/s41467-020-18920-9
 - **Rojkova atlas**: Rojkova, K., Volle, E., Urbanski, M., Humbert, F., Dell'Acqua, F., & Thiebaut de Schotten, M. (2016). Atlasing the frontal lobe connections and their variability due to age and education: a spherical deconvolution tractography study. *Brain Structure and Function*, 221(3), 1751–1766. https://doi.org/10.1007/s00429-015-1001-3
 ---
-
-## Contact
-
-Irene Bellin — [GitHub](https://github.com/irenebellin/ECoG)  
-PhD candidate, University of Padova / Donders Centre for Cognition, Radboud University
